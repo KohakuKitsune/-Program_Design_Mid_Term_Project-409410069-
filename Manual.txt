@@ -1,0 +1,38 @@
+--------------------------------------------------
+         Help Manual about Using Sorting.c
+--------------------------------------------------
+
+  Input format to execute the program:
+
+  ./a.out [1th parameter] [2nd parameter];
+
+  -the 1th and 2nd parameters are optional and you
+   don't have to input if there are no settings are
+   needed to be redefined.
+
+  - the default settings for Sorting.c:
+    
+    Data_Type = Numbers
+
+    Sort_Method = BubbleSort
+
+  - options for 1th parameter:
+
+    -n ----> Numbers
+    -s ----> Strings
+    -h ----> Print Help Manual
+
+  ** "-h" option can only be accepted as the first
+     parameter
+
+  - options for 2nd parameter:
+    -b ----> Bubble Sort
+    -i ----> Insertion Sort
+    -s ----> Selection Sort
+    -q ----> Quick Sort
+    -m ----> Merge Sort
+    -r ----> Radix Sort
+    -h ----> Heap Sort
+
+  Thank you for using Sorting.c!!! \ ^_^ /
+----------------------------------------------
